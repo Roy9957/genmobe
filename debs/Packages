@@ -1,0 +1,11 @@
+Package: genmobe
+Version: 1.0
+Architecture: all
+Maintainer: Ronobir <ronobirroy221@gmail.com>
+Filename: ./genmobe.deb
+Size: 3476
+MD5sum: f17b58a2245b04b9bf03a68718c2edd5
+SHA1: 4aaab06bb8f7c204e431c8c25ae17be89b9cfcac
+SHA256: 5230263c1227ef00d531700bfe26ab7ea3e1e7e092a59fd933fdaf9df037f97a
+Description: Gemini-powered AI terminal interface with file operations.
+
